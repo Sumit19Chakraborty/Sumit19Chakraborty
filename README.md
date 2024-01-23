@@ -1,5 +1,4 @@
 ### Hi there 👋, Sumit
-#### Passionate Developer and Innovator.
 ![Passionate Developer and Innovator.](https://github.com/Sumit19Chakraborty/github-header-image/blob/a3792812ee04540681a6522e9f0ec72e05b55833/github-header-image.png))
 
 I am a passionate self taught software engineer with a keen interest in building innovative applications and solving complex problems. With a strong background in web development and a love for coding, I strive to create efficient and user-friendly solutions. I am motivated by the opportunity to learn and explore new technologies while collaborating with talented individuals.
