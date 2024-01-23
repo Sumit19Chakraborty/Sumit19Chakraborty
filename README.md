@@ -18,6 +18,3 @@ Skills: JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sumit19Chakraborty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumit-chakraborty-aaa47527b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sumit.chakroborty.148)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tbiggbull)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sumitchakraborty.netlify.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit19Chakraborty)](https://github.com/anuraghazra/github-readme-stats)
-
