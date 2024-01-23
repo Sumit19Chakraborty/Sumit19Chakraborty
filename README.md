@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sumit.
-![Passionate Developer and Innovator.](https://github.com/Sumit19Chakraborty/github-header-image/blob/a3792812ee04540681a6522e9f0ec72e05b55833/github-header-image.png))
+![Passionate Developer and Innovator.](https://github.com/Sumit19Chakraborty/github-header-image/blob/a3792812ee04540681a6522e9f0ec72e05b55833/github-header-image.png)
 
 I am a passionate self taught developer & innovator with a keen interest in building innovative applications and solving complex problems. With a strong background in web development and a love for coding, I strive to create efficient and user-friendly solutions. I am motivated by the opportunity to learn and explore new technologies while collaborating with talented individuals.
 
@@ -8,8 +8,7 @@ Sumit19Chakraborty/Sumit19Chakraborty is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-## Skills: 
-JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
+### Skills: JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
 
 - 🔭 I’m currently working on W A L L - E , an most advanced AI system. 
 - 🌱 I’m currently learning Flutter. 
