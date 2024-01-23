@@ -8,7 +8,7 @@ Sumit19Chakraborty/Sumit19Chakraborty is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-### Skills: JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
+### Skills: [JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML]
 
 - 🔭 I’m currently working on W A L L - E , an most advanced AI system. 
 - 🌱 I’m currently learning Flutter. 
