@@ -22,5 +22,3 @@ Skills: JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit19Chakraborty)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sumit19Chakraborty)  
-
