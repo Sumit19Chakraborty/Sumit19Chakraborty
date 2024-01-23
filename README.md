@@ -7,14 +7,7 @@ I am a passionate self taught developer & innovator with a keen interest in buil
 Sumit19Chakraborty/Sumit19Chakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-JAVA
-C++ 
-PYTHON  
-React JS 
-Vue 
-AI & ML
-
+Skills: JAVA ,C++ ,PYTHON  ,React JS ,Vue , AI & ML
 
 - 🔭 I’m currently working on W A L L - E , an most advanced AI system. 
 - 🌱 I’m currently learning Flutter. 
